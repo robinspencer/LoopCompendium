@@ -486,7 +486,7 @@ figure {
     height: 90px;
     padding: 0px 38px 14px 8px;
     /* background: #ff6f00; */
-    background: url(../images/bgd_sm.jpg) no-repeat center top #742103;
+    background: url(../images/bgd_sm.jpg) no-repeat center top 28% #742103;
     /* min-height: 100%; */
     /* min-width: 100%; */
     background-size: cover;
