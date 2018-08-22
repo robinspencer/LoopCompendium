@@ -742,15 +742,14 @@ figure {
         #menu ul a:hover,
         #menu ul a:focus,
         #menu ul mark a:hover,
-        #menu ul mark a:focus,
-	#menu ul mark a:active {
+        #menu ul mark a:focus {
             background: rgba(200, 150, 136, .8);
             font-weight: 600;
     	    color: #582f24;
         }
         #menu ul a:active,
         #menu ul mark a:active {
-            background: #ccc;
+            background: rgba(200, 150, 136, .8);
             font-weight: 600;
             color: #58493c;
         }
